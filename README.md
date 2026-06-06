@@ -77,5 +77,3 @@ pip install -r requirements.txt
 1. YOLOv8
 2. MTCNN
 3. RetinaFace
-
-**Deadline:** Senin Depan ✅
